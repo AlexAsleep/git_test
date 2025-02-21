@@ -1,0 +1,3 @@
+Hello, my name is Alex
+and i'm here trying to learn more
+about git.
